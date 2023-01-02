@@ -25,9 +25,6 @@ extern File logFile;
 extern File eventFile;
 extern bool printDht;
 
-
-
-
 static int setDateTime(Rtc* rtc, char *param)
 {
 	// if string is empty
