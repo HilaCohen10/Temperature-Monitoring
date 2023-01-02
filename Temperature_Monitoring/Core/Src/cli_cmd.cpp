@@ -24,7 +24,7 @@ extern Led rLed;
 extern File logFile;
 extern File eventFile;
 extern bool printDht;
-//Led bLed = Led(GPIOA,BlueLed_Pin); //was added to test new connections
+
 
 
 
