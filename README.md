@@ -11,6 +11,7 @@ Link to video of demonstration: https://drive.google.com/file/d/1wWYfHHxN_ZlazU8
 + Momentary button
 + Red led
 + RTC
++ Temperature Sensor - DHT11
 #### What Does it do?
 + The sensor constantly check (1s) the current temperature 
 + The sensor save measured temperature every 1 minute in file log.txt
