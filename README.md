@@ -1,16 +1,16 @@
 
 ## Temperature Monitoring Project
 * The project is implemented on FreeRTOS using C++
-#### This project is an implementation of a temperature monitoring sensor.
+### This project is an implementation of a temperature monitoring sensor.
 Link to video of demonstration: https://drive.google.com/file/d/1wWYfHHxN_ZlazU8_9vSsBEedna9RX77u/view?usp=sharing
-##### components:
+#### components:
 + STM32 Nucleo 64
 + Buzzer
 + SDCard
 + Buzzer
 + Momentary button
 + Red led
-##### What Does it do?
+#### What Does it do?
 + The sensor constantly check (1s) the current temperature 
 + The sensor save measured temperature every 1 minute in file log.txt
 + It has 2 thresholds: warning and critical temperature thresholds.
