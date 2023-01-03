@@ -4,7 +4,7 @@
 #### This project is an implementation of a temperature monitoring sensor.
 Link to video of demonstration: https://drive.google.com/file/d/1wWYfHHxN_ZlazU8_9vSsBEedna9RX77u/view?usp=sharing
 
-![image](https://drive.google.com/file/d/1wxDoJ4r8n2CSuSlKmTcWaHz4XrcWI4l1/view?usp=sharing)
+![image][(https://drive.google.com/file/d/1wxDoJ4r8n2CSuSlKmTcWaHz4XrcWI4l1/view?usp=sharing)](https://drive.google.com/file/d/1wxDoJ4r8n2CSuSlKmTcWaHz4XrcWI4l1/view?usp=sharing)
 + The sensor constantly check (1s) the current temperature 
 + The sensor save measured temperature every 1 minute in file log.txt
 + It has 2 thresholds: warning and critical temperature thresholds.
