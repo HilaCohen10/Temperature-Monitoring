@@ -5,7 +5,6 @@
 Link to video of demonstration: https://drive.google.com/file/d/1wWYfHHxN_ZlazU8_9vSsBEedna9RX77u/view?usp=sharing
 #### components:
 + STM32 Nucleo 64
-+ Buzzer
 + SDCard
 + Buzzer
 + Momentary button
