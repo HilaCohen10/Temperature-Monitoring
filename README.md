@@ -31,4 +31,4 @@ Link to video of demonstration: https://drive.google.com/file/d/1wWYfHHxN_ZlazU8
 + Files for event and temperature log shall be stored on SDCARD.
 + It is possible to remove the SD card and read the logs in windows (just by putting the SD card in a computer). Use FATFS for that purpose.
 
-Relevant information I've used to add metods to write, print and clear files from SD-Card : https://01001000.xyz/2020-08-09-Tutorial-STM32CubeIDE-SD-card/
+I've used  https://01001000.xyz/2020-08-09-Tutorial-STM32CubeIDE-SD-card/ to add methods to write, print and clear files from SD-Card.
