@@ -21,7 +21,7 @@ Link to video of demonstration: https://drive.google.com/file/d/1wWYfHHxN_ZlazU8
 + When the temperature decreases the threshold, it should disable corresponding notifications: LED, sound, and write the event into the event log in file.
 + The log record should have the following data: current date and time, the log severity, and the message
 + The user could disable the buzzer signal by pressing the button
-+ The use should be able to perform the following commands:
++ The user should be able to perform the following commands:
   - Set date and time
   - Set warning threshold
   - Set critical threshold
